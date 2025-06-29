@@ -1,0 +1,1 @@
+$$\psi (\vec r, t) = \sum c_n (t) u_n(\vec r) e^{- i\omega_n t}$$ 

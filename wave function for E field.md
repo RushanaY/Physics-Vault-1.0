@@ -1,0 +1,1 @@
+$$\triangledown^2 \vec E - \frac{1}{c^2} \frac{\partial^2 \vec E}{\partial t^2} = 0$$
