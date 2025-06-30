@@ -1,0 +1,1 @@
+$$Y_{lm} (\Theta, \Phi) = (-1)^m (\frac{(2l +1) (l -m)!}{4 \pi (l + m)!})^{1/2} P^m_l cos \theta e^{im \phi}$$
