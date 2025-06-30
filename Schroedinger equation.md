@@ -1,0 +1,1 @@
+$$i \hbar \frac{\partial}{\partial t} \psi (\vec r, t) = H_0 \psi (\vec r, t ) $$ 
