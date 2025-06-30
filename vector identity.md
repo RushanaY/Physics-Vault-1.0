@@ -1,0 +1,1 @@
+$$\triangledown \cdot ( u \times v ) = (\triangledown \times u) \cdot v - u \cdot (\triangledown \times v)$$

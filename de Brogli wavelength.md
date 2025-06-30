@@ -1,0 +1,1 @@
+$$\lambda = \frac{h}{p} = \frac{h}{mv}$$ 

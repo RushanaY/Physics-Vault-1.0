@@ -1,0 +1,1 @@
+in some places a synonym for specific [[intensity]]

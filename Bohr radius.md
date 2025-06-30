@@ -1,0 +1,1 @@
+$a_0 = \frac{4 \pi \epsilon_0 \hbar^2}{e^2 m}$
