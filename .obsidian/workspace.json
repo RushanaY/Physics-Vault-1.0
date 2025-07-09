@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "893042ac1dec5641",
+    "type": "split",
+    "children": [
+      {
+        "id": "416f160a59832cf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70ed337e5c496d12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59aab416bd62bf5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "deleteme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ffe76340b9aafeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cfbe5fd1436f053",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1523378d6b1b9a0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f8a7b662a87c310",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "deleteme",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0830a484f9684f7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "76aaba7ae39eb61d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b838b7d500c46a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f60fba8d7f036917",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "deleteme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4094c57177e9bad8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "deleteme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e90a01aa11d4df0b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "94e69588e3b2405b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "deleteme.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "59aab416bd62bf5f",
+  "lastOpenFiles": [
+    "deleteme.md",
+    "README.md",
+    "2 niveau system.md",
+    "2 niveau system (1).md",
+    "21.07. Notes.md",
+    "T3.Sheet 1.md"
+  ]
+}
