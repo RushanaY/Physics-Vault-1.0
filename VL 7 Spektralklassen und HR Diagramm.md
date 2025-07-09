@@ -1,3 +1,17 @@
-- [[Extinction]] 
-	- = **Absorbtion + scattering** of star light in dust clouds 
-	- **Colour Excess** $$E_{B-V} = (B-V)_{intrinsic} - (B-V)_{observed}$$
+
+# Extinction 
+ ![[Extinction]] 
+
+
+# Variable stars 
+
+![[Variable stars]]
+
+
+# ZAMS  
+
+![[ZAMS]]  
+
+# Harvard sequence 
+
+![[Harvard sequence]] 
